@@ -1,3 +1,4 @@
 1. What is Meaning of Undefined??
 2.Filters 
-3.
+3.Prime number a Return keno Data show kore na.(prime2.php)
+4.OOP3.php have a problem +=
